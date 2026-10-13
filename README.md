@@ -14,6 +14,10 @@ Everything is generated in code: sprites are vector-drawn on the fly, and all so
 | Launch the ball / release a caught ball / fire the laser | Left mouse button or `Space` |
 | Pause | `P` or `Esc` |
 
+### On a phone or tablet
+
+Play in landscape. Drag anywhere to slide the paddle, tap to launch the ball, and hold **FIRE** for the laser. The pause button opens the menu. The on-screen controls appear on touch devices automatically; Settings has size, opacity and a left-handed layout. Use your browser's *Add to Home Screen* to install it as a full-screen app.
+
 ## Gameplay
 
 - Where the ball hits the paddle sets its bounce angle, and the ball speeds up as you break bricks and climb levels. Lose all balls and you lose a life (3 to start, extra lives at 20,000 and every 50,000 points).
